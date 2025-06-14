@@ -1,0 +1,4 @@
+ARIMA Model Evaluation Metrics:
+MAE: 10857.0813
+RMSE: 11949.1341
+R2: -13.4072

@@ -1,0 +1,9 @@
+Prophet Model Evaluation Metrics:
+MAE: 19327.2728
+RMSE: 25803.8462
+R2: -66.1856
+
+Seasonality Analysis:
+Weekly Seasonality: True
+Yearly Seasonality: True
+Daily Seasonality: True

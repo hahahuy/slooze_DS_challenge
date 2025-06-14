@@ -1,0 +1,22 @@
+Model Comparison Report
+=====================
+
+ARIMA Model Metrics:
+ARIMA Model Evaluation Metrics:
+MAE: 10857.0813
+RMSE: 11949.1341
+R2: -13.4072
+
+Prophet Model Metrics:
+Prophet Model Evaluation Metrics:
+MAE: 19327.2728
+RMSE: 25803.8462
+R2: -66.1856
+
+Seasonality Analysis:
+Weekly Seasonality: True
+Yearly Seasonality: True
+Daily Seasonality: True
+
+Recommendation:
+Based on the metrics, the model with lower MAE and RMSE, and higher R2 score is recommended for forecasting.
